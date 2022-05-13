@@ -2,7 +2,7 @@
   "devDependencies": {
     "typescript": "^4.6.4"
   },
-  "name": "@b1digital/rd",
+  "name": "ici-rich-data",
   "description": "Richdata helper is a tool for hotel information's platform provided by icibot.",
   "version": "1.0.2",
   "main": "index.js",
