@@ -1,5 +1,27 @@
 {
-  "dependencies": {
+  "devDependencies": {
     "typescript": "^4.6.4"
-  }
+  },
+  "name": "rd",
+  "description": "Richdata helper is a tool for hotel information's platform provided by icibot.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "/dist"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/B1Digital/rd.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/B1Digital/rd/issues"
+  },
+  "homepage": "https://github.com/B1Digital/rd#readme"
 }
