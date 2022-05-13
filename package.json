@@ -4,7 +4,7 @@
   },
   "name": "ici-rd",
   "description": "Richdata helper is a tool for hotel information's platform provided by icibot.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "index.js",
   "types": "dist/index.d.ts",
   "files": [
