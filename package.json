@@ -4,7 +4,7 @@
   },
   "name": "ici-rd",
   "description": "Richdata helper is a tool for hotel information's platform provided by icibot.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "types": "dist/index.d.ts",
   "files": [
@@ -18,7 +18,12 @@
     "type": "git",
     "url": "git+https://github.com/B1Digital/rd.git"
   },
-  "keywords": ["icibot","richdata","icibot hotel management",""],
+  "keywords": [
+    "icibot",
+    "richdata",
+    "icibot hotel management",
+    ""
+  ],
   "author": "",
   "license": "ISC",
   "bugs": {
