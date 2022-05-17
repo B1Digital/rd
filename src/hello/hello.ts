@@ -1,4 +1,4 @@
-const sayHello = () => {
+const  sayHello = ():string  => {
     return "Hello world. canım benim";
 }
 
