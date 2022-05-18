@@ -1,5 +1,8 @@
-const  sayHello = ():string  => {
-    return "Hello world. canım benim";
+class HelloWorldICI {
+
+    public sayHello() {
+        return "Hello world. canım benim";
+    }
 }
 
-export {sayHello}
+export { HelloWorldICI };
