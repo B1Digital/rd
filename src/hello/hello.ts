@@ -1,8 +1,8 @@
-class HelloWorldICI {
+export class Hello {
 
     public sayHello() {
         return "Hello world. canım benim";
     }
 }
 
-module.exports = HelloWorldICI;
+
